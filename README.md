@@ -1,0 +1,1 @@
+# Analise_Pareto_SQL
